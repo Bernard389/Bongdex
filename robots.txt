@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:  https://maihan.edu.af/public/vendor/video/sitemap.xml
+Sitemap:  https://www.dawchile.cl/proyectos/video/sitemap.xml
