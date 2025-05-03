@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:  https://agfolks.com/news/sitemap.xml
+Sitemap:  https://maihan.edu.af/public/vendor/video/sitemap.xml
