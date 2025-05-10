@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:     https://lpm.iainpalopo.ac.id/lpm/wp-includes/video/sitemap.xml
+Sitemap:     https://palita.iainpalopo.ac.id/wp-content/video/sitemap.xml
