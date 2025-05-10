@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:     https://palita.iainpalopo.ac.id/wp-content/video/sitemap.xml
+Sitemap:     https://kemahasiswaan.iainpalopo.ac.id/wp-content/video/sitemap.xml
